@@ -19,7 +19,7 @@ au BufRead,BufNewFile *.shader set filetype=cpp
 au BufRead,BufNewFile *.xacro set filetype=xml
 au BufRead,BufNewFile *.urdf set filetype=xml
 
-set clipboard+=unnamed
+set clipboard+=unnamedplus
 
 set backspace=indent,eol,start
 
