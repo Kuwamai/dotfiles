@@ -32,6 +32,7 @@ autocmd BufRead,BufNewFile *.ino setlocal expandtab tabstop=2 softtabstop=2 shif
 autocmd BufRead,BufNewFile *.tex setlocal expandtab tabstop=4 softtabstop=4 shiftwidth=4
 autocmd BufRead,BufNewFile *.urdf setlocal expandtab tabstop=2 softtabstop=2 shiftwidth=2
 autocmd BufRead,BufNewFile *.xacro setlocal expandtab tabstop=2 softtabstop=2 shiftwidth=2
+autocmd BufRead,BufNewFile *.world setlocal expandtab tabstop=2 softtabstop=2 shiftwidth=2
 autocmd BufRead,BufNewFile *.launch setlocal expandtab tabstop=2 softtabstop=2 shiftwidth=2
 autocmd BufRead,BufNewFile *.xml setlocal expandtab tabstop=2 softtabstop=2 shiftwidth=2
 autocmd BufRead,BufNewFile *.md setlocal expandtab tabstop=2 softtabstop=2 shiftwidth=2
