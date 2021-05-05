@@ -1,5 +1,4 @@
 "行番号の表示
-set number
 set smartindent
 set autoindent
 
@@ -43,7 +42,7 @@ autocmd BufRead,BufNewFile *.css setlocal expandtab tabstop=2 softtabstop=2 shif
 autocmd BufRead,BufNewFile *.scss setlocal expandtab tabstop=2 softtabstop=2 shiftwidth=2
 autocmd BufRead,BufNewFile *.js setlocal expandtab tabstop=2 softtabstop=2 shiftwidth=2
 
-set clipboard+=unnamedplus
+"set clipboard+=unnamedplus
 
 set backspace=indent,eol,start
 
